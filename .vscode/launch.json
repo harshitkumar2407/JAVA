@@ -1,0 +1,119 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Interfaces",
+            "request": "launch",
+            "mainClass": "Interfaces",
+            "projectName": "JAVA_c7932e52"
+        },
+        {
+            "type": "java",
+            "name": "AnonymousInnerClass",
+            "request": "launch",
+            "mainClass": "AnonymousInnerClass",
+            "projectName": "JAVA_c7932e52"
+        },
+        {
+            "type": "java",
+            "name": "TypeCasting",
+            "request": "launch",
+            "mainClass": "TypeCasting",
+            "projectName": "JAVA_c7932e52"
+        },
+        {
+            "type": "java",
+            "name": "Polymorphism",
+            "request": "launch",
+            "mainClass": "Polymorphism",
+            "projectName": "JAVA_c7932e52"
+        },
+        {
+            "type": "java",
+            "name": "Package",
+            "request": "launch",
+            "mainClass": "Package",
+            "projectName": "JAVA_c7932e52"
+        },
+        {
+            "type": "java",
+            "name": "Super",
+            "request": "launch",
+            "mainClass": "Super",
+            "projectName": "JAVA_c7932e52"
+        },
+        {
+            "type": "java",
+            "name": "Oops",
+            "request": "launch",
+            "mainClass": "Oops",
+            "projectName": "JAVA_c7932e52"
+        },
+        {
+            "type": "java",
+            "name": "NamingConvension",
+            "request": "launch",
+            "mainClass": "NamingConvension",
+            "projectName": "JAVA_c7932e52"
+        },
+        {
+            "type": "java",
+            "name": "StaticMethod",
+            "request": "launch",
+            "mainClass": "StaticMethod",
+            "projectName": "JAVA_c7932e52"
+        },
+        {
+            "type": "java",
+            "name": "StaticVariable",
+            "request": "launch",
+            "mainClass": "StaticVariable",
+            "projectName": "JAVA_c7932e52"
+        },
+        {
+            "type": "java",
+            "name": "Constructors",
+            "request": "launch",
+            "mainClass": "Constructors",
+            "projectName": "JAVA_c7932e52"
+        },
+        {
+            "type": "java",
+            "name": "Encapculation",
+            "request": "launch",
+            "mainClass": "Encapculation",
+            "projectName": "JAVA_c7932e52"
+        },
+        {
+            "type": "java",
+            "name": "Q1",
+            "request": "launch",
+            "mainClass": "ChatGPTQuestion.Q1",
+            "projectName": "JAVA_c7932e52"
+        },
+        {
+            "type": "java",
+            "name": "demo2",
+            "request": "launch",
+            "mainClass": "demo2",
+            "projectName": "JAVA_c7932e52"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "JAVA_c7932e52"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
