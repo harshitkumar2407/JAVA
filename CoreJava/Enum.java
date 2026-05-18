@@ -22,22 +22,11 @@ public class Enum {
                 System.out.println("Done");
                 break;
         }
+        Status[] ss = Status.values();
+        System.out.println(ss[0]);
 
-        
-        
-        
-        // System.out.println(s);
-        // for (Status status : s) {
-        //     System.out.println(status);
-        // }
+        for(Status a:ss)
+            System.out.println(a);
 
-        // if(s == Status.Running)
-        //     System.out.println("All Good");
-        // else if(s == Status.Failed)
-        //     System.out.println("Try Again");
-        // else if(s == Status.Pending)
-        //     System.out.println("Please wait");
-        // else 
-        //     System.out.println("Done");
     }
 }

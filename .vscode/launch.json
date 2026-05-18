@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Enum",
+            "request": "launch",
+            "mainClass": "Enum",
+            "projectName": "JAVA_c7932e52"
+        },
+        {
+            "type": "java",
             "name": "Interfaces",
             "request": "launch",
             "mainClass": "Interfaces",
